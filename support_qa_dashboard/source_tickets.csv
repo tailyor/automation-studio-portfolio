@@ -1,0 +1,17 @@
+date,account,channel,team,issue_type,status,severity,tickets,qa_score,first_response_minutes,resolution_hours,refund_risk_usd,human_review_required,owner
+2026-05-06,Northstar Retail,Intercom,Billing,Refund Request,Resolved,Low,18,92,8,5,420,2,Billing Ops
+2026-05-06,BrightCart,Zendesk,Technical,API Error,Needs Review,High,11,74,22,19,1800,7,Support Lead
+2026-05-13,StudioFlow,Email,Onboarding,Setup Question,Resolved,Low,24,95,6,7,0,1,Onboarding
+2026-05-13,RelayPay,Intercom,Billing,Charge Dispute,Escalated,Critical,9,62,35,28,4200,9,Billing Ops
+2026-05-20,FieldDesk,Zendesk,Technical,Integration Failure,Escalated,High,15,68,27,31,2600,11,Engineering
+2026-05-20,OmniCare,Voice,Policy,Policy Exception,Needs Review,Medium,12,79,18,14,760,6,QA Lead
+2026-05-27,AtlasHR,Intercom,Onboarding,Account Access,Resolved,Low,28,91,9,9,0,2,Onboarding
+2026-05-27,Cobalt Health,Email,Policy,Compliance Check,Needs Review,High,10,70,24,22,1400,8,QA Lead
+2026-06-03,HarborCloud,Zendesk,Billing,Refund Request,Needs Review,Medium,17,77,16,16,2100,7,Billing Ops
+2026-06-03,PixelOps,Intercom,Technical,API Error,Escalated,Critical,8,58,42,36,5200,8,Engineering
+2026-06-10,Verdant Supply,Voice,Onboarding,Setup Question,Resolved,Low,21,94,7,6,0,1,Onboarding
+2026-06-10,LaunchLedger,Email,Billing,Charge Dispute,Escalated,High,13,64,31,29,3900,12,Billing Ops
+2026-06-17,Meridian Apps,Zendesk,Technical,Integration Failure,Needs Review,High,14,72,25,24,2500,10,Support Lead
+2026-06-17,AnchorDesk,Intercom,Policy,Policy Exception,Resolved,Medium,16,86,12,11,500,4,QA Lead
+2026-06-24,Copperline,Email,Billing,Refund Request,Escalated,Critical,7,55,44,41,6100,7,Billing Ops
+2026-06-24,Solara Systems,Zendesk,Technical,Account Access,Resolved,Low,26,90,10,8,0,3,Support Lead
